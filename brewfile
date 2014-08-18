@@ -1,0 +1,23 @@
+# Important Packages that I use a lot.
+install git
+install git-flow
+install caskroom/cask/brew-cask
+install docker
+install boot2docker
+install node
+install imagemagick
+install wget
+install openssl
+
+# Other useful Packages
+install aws-elasticbeanstalk
+install bash-completion
+install freetype
+install mongodb
+install gdbm
+install jpeg
+install libpng
+install pcre
+install phantomjs
+install libtool
+install tig

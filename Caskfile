@@ -1,0 +1,23 @@
+# Development Apps/Services
+
+cask install sublime-text3
+cask install github
+cask install virtualbox
+
+# Browsers: Major
+cask install google-chrome
+cask install firefox
+
+# Browsers: Experimental
+
+# Utilities / Productivity
+cask install google-drive
+cask install google-hangouts
+cask install hipchat
+cask install imageoptim
+cask install sequel-pro
+cask install iterm2
+cask install alfred
+cask install karabiner
+cask install tower
+cask install gmail-notifr
